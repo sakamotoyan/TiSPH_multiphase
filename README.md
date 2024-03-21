@@ -18,7 +18,10 @@ For an optimal experience, especially when running demos, we recommend using an 
 
 ## Demos
 ### Running the demos
-Execute the following in your terminal to run a demo:
+
+1. Create a dedicated folder named `output` within the program's directory. This folder will be used to store the results produced by the program..
+
+2. Execute the following in your terminal to run a demo:
 ```bash
 python scene_xxx.py
 ```
